@@ -2,10 +2,11 @@
 ====  
 follow this [instructions](https://learnpythonthehardway.org/book/)
 
+## Exercise 0
 
-##Exercise 0
-*Set up
+ * Set up
 
-##Excecise 1
-*A good first Program
+## Excecise 1
+
+ * A good first Program
 
